@@ -22,6 +22,3 @@ Identification of top-performing regions based on revenue and profit
 Comparison of sales performance across categories and locations
 Analysis of overall business growth and trends
 Better understanding of customer purchasing patterns
-
-Screenshots/Demos
-E-Commerce order dashboard pic.png
