@@ -24,4 +24,4 @@ Analysis of overall business growth and trends
 Better understanding of customer purchasing patterns
 
 # Image/Demo
-https://github.com/sahitirawlo-afk/FUTURE_DS_01/commit/753e6d52ef41ae0144f8a60d258a6924988180e7
+<img width="1240" height="691" alt="E-Commerce order dashboard pic" src="https://github.com/user-attachments/assets/d46afb9c-b779-4ec4-84ad-0804c222c923" />
