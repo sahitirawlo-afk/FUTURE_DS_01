@@ -23,7 +23,5 @@ Comparison of sales performance across categories and locations
 Analysis of overall business growth and trends
 Better understanding of customer purchasing patterns
 
-# Data
-https://github.com/sahitirawlo-afk/FUTURE_DS_01/commit/74059492abb2bebc58bf2bb72fac7decd08c5d35
 # Image/Demo
 <img width="1240" height="691" alt="E-Commerce order dashboard pic" src="https://github.com/user-attachments/assets/d46afb9c-b779-4ec4-84ad-0804c222c923" />
