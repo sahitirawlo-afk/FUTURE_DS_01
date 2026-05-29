@@ -24,3 +24,4 @@ Analysis of overall business growth and trends
 Better understanding of customer purchasing patterns
 
 Screenshots/Demos
+E-Commerce order dashboard pic.png
