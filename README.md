@@ -18,10 +18,10 @@ Data Modeling and Visualization
 DAX for calculated measures and KPIs
 
 # Insights Generated
-Identification of top-performing regions based on revenue and profit
-Comparison of sales performance across categories and locations
-Analysis of overall business growth and trends
-Better understanding of customer purchasing patterns
+*Identification of top-performing regions based on revenue and profit
+*Comparison of sales performance across categories and locations
+*Analysis of overall business growth and trends
+*Better understanding of customer purchasing patterns
 
 # Image/Demo
 <img width="1240" height="691" alt="E-Commerce order dashboard pic" src="https://github.com/user-attachments/assets/d46afb9c-b779-4ec4-84ad-0804c222c923" />
