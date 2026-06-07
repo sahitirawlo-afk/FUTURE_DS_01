@@ -17,10 +17,13 @@ The main objective of this project is to help businesses understand sales trends
 *User-friendly and visually appealing dashboard design
 
 # Tools & Technologies Used
-**Power BI
-**Data Cleaning & Transformation using Power Query
-**Data Modeling and Visualization
-**DAX for calculated measures and KPIs
+**Power BI**
+
+**Data Cleaning & Transformation using Power Query**
+
+**Data Modeling and Visualization**
+
+**DAX for calculated measures and KPIs**
 
 # Insights Generated
 *Identification of top-performing regions based on revenue and profit
