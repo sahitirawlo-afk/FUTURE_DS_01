@@ -5,7 +5,9 @@ The main objective of this project is to help businesses understand sales trends
 
 # Key Features
 Revenue analysis across different regions
+
 Sales and profit tracking using interactive visuals
+
 Region-wise performance comparison
 Dynamic charts and filters for better data exploration
 KPI cards for quick business insights
